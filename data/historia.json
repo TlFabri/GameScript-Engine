@@ -1,0 +1,39 @@
+{
+    "inicio": {
+        "texto": "Você está em uma floresta escura. Há dois caminhos.",
+        "opcoes": [
+            {"descricao": "Seguir pelo caminho da direita.", "proximo": "caminho_direita"},
+            {"descricao": "Seguir pelo caminho da esquerda.", "proximo": "caminho_esquerda"}
+        ]
+    },
+    "caminho_direita": {
+        "texto": "Você encontrou um rio com uma ponte quebrada.",
+        "opcoes": [
+            {"descricao": "Tentar atravessar a ponte.", "proximo": "ponte_quebrada"},
+            {"descricao": "Procurar outro caminho.", "proximo": "outro_caminho"}
+        ]
+    },
+    "caminho_esquerda": {
+        "texto": "Um lobo surge no seu caminho!",
+        "opcoes": [
+            {"descricao": "Enfrentar o lobo.", "proximo": "luta_lobo"},
+            {"descricao": "Fugir.", "proximo": "fugir"}
+        ]
+    },
+    "ponte_quebrada": {
+        "texto": "A ponte caiu e você se machucou. Fim do jogo.",
+        "opcoes": []
+    },
+    "outro_caminho": {
+        "texto": "Você encontrou uma saída segura da floresta. Parabéns!",
+        "opcoes": []
+    },
+    "luta_lobo": {
+        "texto": "O lobo era muito forte... Você perdeu. Fim do jogo.",
+        "opcoes": []
+    },
+    "fugir": {
+        "texto": "Você conseguiu escapar do lobo e encontrou um vilarejo. Parabéns!",
+        "opcoes": []
+    }
+}
