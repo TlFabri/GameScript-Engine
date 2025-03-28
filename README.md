@@ -1,6 +1,6 @@
 # GameScript-Engine
 
-## 🎮 Sobre o Projeto 
+## 🎮 Sobre o Projeto
 GameScript-Engine é um motor de script para RPGs e Visual Novels, permitindo a criação de histórias interativas baseadas em escolhas. O projeto visa fornecer um sistema flexível para escritores e desenvolvedores de jogos, possibilitando narrativas dinâmicas e imersivas.
 
 ## ✨ Funcionalidades
