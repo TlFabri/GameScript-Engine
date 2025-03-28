@@ -21,8 +21,6 @@ GameScript-Engine é um motor de script para RPGs e Visual Novels, permitindo a 
 GameScript-Engine/
 │── scripts/             # Arquivos de scripts e lógica do jogo
 │── data/                # Arquivos JSON contendo as histórias
-│── docs/                # Documentação do projeto
-│── tests/               # Testes unitários para validação do código
 │── main.py              # Arquivo principal para rodar o projeto
 │── README.md            # Documentação do projeto
 ```
