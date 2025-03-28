@@ -44,6 +44,7 @@ GameScript-Engine/
 - Interface gráfica para edição das histórias.
 - Integração com Unity e outras engines.
 
+
 ---
 
 💡 **Contribuições são bem-vindas!** Se tiver ideias para melhorias ou quiser colaborar, fique à vontade para abrir uma issue ou enviar um pull request! 🚀
